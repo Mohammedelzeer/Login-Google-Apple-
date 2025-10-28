@@ -29,7 +29,6 @@ This project is a **complete authentication system** built with **SwiftUI** and 
 - Swift 5.9+  
 - A Firebase project with your own `GoogleService-Info.plist`
 
-- https://github.com/Mohammedelzeer/Login-Google-Apple-/blob/491c35bb54c30d40c9610f4ad7e4ca652e3d6c58/Screenshot%202025-10-28%20at%2015.55.21.png
 
 ---
 
